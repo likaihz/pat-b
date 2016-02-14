@@ -7,10 +7,7 @@ int main()
 {
     int n;
     cin >> n;
-    for(;n--;)
-    {
-        check();
-    }
+    for(;n--;) check();
     return 0;
 }
 
