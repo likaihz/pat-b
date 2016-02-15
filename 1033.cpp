@@ -28,6 +28,6 @@ int main()
 
 
 /* summary:
- *  the statement just garantee that the second line is not empty, but the first line can be empty,
+ *  the statement just garantees that the second line is not empty, but the first line can be empty,
  *  which is that there is no lost key. So it's wrong to use "cin >> " to get input;
  */
